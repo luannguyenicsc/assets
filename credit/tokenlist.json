@@ -4,15 +4,14 @@
     "timestamp": "2022-09-05T01:39:08.105895",
     "tokens": [
         {
-            "asset": "",
-            "type": "token",
+            "chainId": 13308,
             "address": "0xED157cfe32AA59aFe7b3c5C71538884C9802577e",
             "name": "Wrapped BNB on Credit (WBNB)",
             "symbol": "WBNB",
             "decimals": 18,
-            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/binance/info/logo.png",
-            "pairs": []
-        }
+            "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
+          }
+
     ],
     "version": {
         "major": 1,
